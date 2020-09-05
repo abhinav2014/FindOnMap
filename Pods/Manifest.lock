@@ -1,0 +1,16 @@
+PODS:
+  - FSInteractiveMap (0.1.0)
+
+DEPENDENCIES:
+  - FSInteractiveMap
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FSInteractiveMap
+
+SPEC CHECKSUMS:
+  FSInteractiveMap: 43a8d1388056b21da95194528fc37e222c7dad50
+
+PODFILE CHECKSUM: cd395708d34b9675e836ac32d89087a76f5dc087
+
+COCOAPODS: 1.6.1

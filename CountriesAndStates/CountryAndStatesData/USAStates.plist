@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>US-AK</key>
+	<string>Alaska</string>
+	<key>US-AL</key>
+	<string>Alabama</string>
+	<key>US-AR</key>
+	<string>Arkansas</string>
+	<key>US-AZ</key>
+	<string>Arizona</string>
+	<key>US-CA</key>
+	<string>California</string>
+	<key>US-CO</key>
+	<string>Colorado</string>
+	<key>US-CT</key>
+	<string>Connecticut</string>
+	<key>US-DC</key>
+	<string>Washington, DC</string>
+	<key>US-DE</key>
+	<string>Delaware</string>
+	<key>US-FL</key>
+	<string>Florida</string>
+	<key>US-GA</key>
+	<string>Georgia</string>
+	<key>US-HI</key>
+	<string>Hawaii</string>
+	<key>US-IA</key>
+	<string>Iowa</string>
+	<key>US-ID</key>
+	<string>Idaho</string>
+	<key>US-IL</key>
+	<string>Illinois</string>
+	<key>US-IN</key>
+	<string>Indiana</string>
+	<key>US-KS</key>
+	<string>Kansas</string>
+	<key>US-KY</key>
+	<string>Kentucky</string>
+	<key>US-LA</key>
+	<string>Louisiana</string>
+	<key>US-MA</key>
+	<string>Massachusetts</string>
+	<key>US-MD</key>
+	<string>Maryland</string>
+	<key>US-ME</key>
+	<string>Maine</string>
+	<key>US-MI</key>
+	<string>Michigan</string>
+	<key>US-MN</key>
+	<string>Minnesota</string>
+	<key>US-MO</key>
+	<string>Missouri</string>
+	<key>US-MS</key>
+	<string>Mississippi</string>
+	<key>US-MT</key>
+	<string>Montana</string>
+	<key>US-NC</key>
+	<string>North Carolina</string>
+	<key>US-ND</key>
+	<string>North Dakota</string>
+	<key>US-NE</key>
+	<string>Nebraska</string>
+	<key>US-NH</key>
+	<string>New Hampshire</string>
+	<key>US-NJ</key>
+	<string>New Jersey</string>
+	<key>US-NM</key>
+	<string>New Mexico</string>
+	<key>US-NV</key>
+	<string>Nevada</string>
+	<key>US-NY</key>
+	<string>New York</string>
+	<key>US-OH</key>
+	<string>Ohio</string>
+	<key>US-OK</key>
+	<string>Oklahoma</string>
+	<key>US-OR</key>
+	<string>Oregon</string>
+	<key>US-PA</key>
+	<string>Pennsylvania</string>
+	<key>US-RI</key>
+	<string>Rhode Island</string>
+	<key>US-SC</key>
+	<string>South Carolina</string>
+	<key>US-SD</key>
+	<string>South Dakota</string>
+	<key>US-TN</key>
+	<string>Tennessee</string>
+	<key>US-TX</key>
+	<string>Texas</string>
+	<key>US-UT</key>
+	<string>Utah</string>
+	<key>US-VA</key>
+	<string>Virginia</string>
+	<key>US-VT</key>
+	<string>Vermont</string>
+	<key>US-WA</key>
+	<string>Washington</string>
+	<key>US-WI</key>
+	<string>Wisconsin</string>
+	<key>US-WV</key>
+	<string>West Virginia</string>
+	<key>US-WY</key>
+	<string>Wyoming</string>
+</dict>
+</plist>

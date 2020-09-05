@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IN-AN</key>
+	<string>Andaman and Nicobar Islands</string>
+	<key>IN-AP</key>
+	<string>Andhra Pradesh</string>
+	<key>IN-AR</key>
+	<string>Arunachal Pradesh</string>
+	<key>IN-AS</key>
+	<string>Assam</string>
+	<key>IN-BR</key>
+	<string>Bihar</string>
+	<key>IN-CH</key>
+	<string>Chandigarh</string>
+	<key>IN-CT</key>
+	<string>Chhattisgarh</string>
+	<key>IN-DD</key>
+	<string>Daman and Diu</string>
+	<key>IN-DL</key>
+	<string>Delhi</string>
+	<key>IN-DN</key>
+	<string>Dadra and Nagar Haveli</string>
+	<key>IN-GA</key>
+	<string>Goa</string>
+	<key>IN-GJ</key>
+	<string>Gujarat</string>
+	<key>IN-HP</key>
+	<string>Himachal Pradesh</string>
+	<key>IN-HR</key>
+	<string>Haryana</string>
+	<key>IN-JH</key>
+	<string>Jharkhand</string>
+	<key>IN-JK</key>
+	<string>Jammu and Kashmir</string>
+	<key>IN-KA</key>
+	<string>Karnataka</string>
+	<key>IN-KL</key>
+	<string>Kerala</string>
+	<key>IN-LD</key>
+	<string>Lakshadweep</string>
+	<key>IN-MH</key>
+	<string>Maharashtra</string>
+	<key>IN-ML</key>
+	<string>Meghalaya</string>
+	<key>IN-MN</key>
+	<string>Manipur</string>
+	<key>IN-MP</key>
+	<string>Madhya Pradesh</string>
+	<key>IN-MZ</key>
+	<string>Mizoram</string>
+	<key>IN-NL</key>
+	<string>Nagaland</string>
+	<key>IN-OR</key>
+	<string>Odisha</string>
+	<key>IN-PB</key>
+	<string>Punjab</string>
+	<key>IN-PY</key>
+	<string>Puducherry</string>
+	<key>IN-RJ</key>
+	<string>Rajasthan</string>
+	<key>IN-SK</key>
+	<string>Sikkim</string>
+	<key>IN-TG</key>
+	<string>Telangana</string>
+	<key>IN-TN</key>
+	<string>Tamil Nadu</string>
+	<key>IN-TR</key>
+	<string>Tripura</string>
+	<key>IN-UP</key>
+	<string>Uttar Pradesh</string>
+	<key>IN-UT</key>
+	<string>Uttarakhand</string>
+	<key>IN-WB</key>
+	<string>West Bengal</string>
+</dict>
+</plist>
